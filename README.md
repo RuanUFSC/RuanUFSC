@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruanufsc&label=Profile%20views&color=0e75b6&style=flat" alt="ruanufsc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruanufsc" alt="ruanufsc" /></a> </p>
-
 - 🔭 Atualmente trabalho como **Web Developer**
 
 - 🤝 Além de ministrar aulas de **JavaScript, HTML, CSS, Node e React**
